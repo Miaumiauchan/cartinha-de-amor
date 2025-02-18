@@ -50,7 +50,6 @@
             <li>É o meu safado</li>
         </ul>
         
-        <div style="font-size: 4em; color: red;">❤️</div>
         <div style="background: white; color: #333; border-radius: 15px; padding: 25px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); text-align: justify; font-size: 1.2em; line-height: 1.8; margin-top: 30px; border: 2px solid #fce4ec;">
             <p>
                 Cada um desses motivos representa uma parte de como você tem sido fundamental na minha vida, mas não só isso. Você me ajudou, com todo o carinho, a me tornar uma pessoa melhor, me fez enxergar a vida de forma diferente, mais leve e mais feliz. Ao seu lado, descobri o quão importante é o amor e como ele pode transformar. Você é a minha inspiração, meu refúgio, e o maior presente que a vida poderia me dar.
@@ -61,3 +60,6 @@
             </p>
         </div>
     </div>
+</body>
+</html>
+
